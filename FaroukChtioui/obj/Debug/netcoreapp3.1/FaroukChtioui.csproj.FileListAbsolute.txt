@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\bin\Debug\netcoreapp3.1\FaroukChtioui.exe
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\bin\Debug\netcoreapp3.1\FaroukChtioui.deps.json
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\bin\Debug\netcoreapp3.1\FaroukChtioui.runtimeconfig.json
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\bin\Debug\netcoreapp3.1\FaroukChtioui.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\bin\Debug\netcoreapp3.1\FaroukChtioui.dll
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\bin\Debug\netcoreapp3.1\FaroukChtioui.pdb
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\obj\Debug\netcoreapp3.1\FaroukChtioui.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\obj\Debug\netcoreapp3.1\FaroukChtioui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\obj\Debug\netcoreapp3.1\FaroukChtioui.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\obj\Debug\netcoreapp3.1\FaroukChtioui.AssemblyInfo.cs
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\obj\Debug\netcoreapp3.1\FaroukChtioui.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\obj\Debug\netcoreapp3.1\FaroukChtioui.dll
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\obj\Debug\netcoreapp3.1\FaroukChtioui.pdb
+C:\Users\Asus\Desktop\oud\FaroukChtioui\FaroukChtioui\obj\Debug\netcoreapp3.1\FaroukChtioui.genruntimeconfig.cache
