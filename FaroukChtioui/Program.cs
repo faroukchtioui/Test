@@ -37,25 +37,25 @@ namespace FaroukChtioui
             switch (choixBoisson)
             {
                 case 1:
-                    Console.WriteLine($"Le prix est de {prixEspresso} €.");
+                    Console.WriteLine($"Le prix est de {prixEspresso} cents.");
                     break;
                 case 2:
-                    Console.WriteLine($"Le prix est de {prixLait} €.");
+                    Console.WriteLine($"Le prix est de {prixLait} cents.");
                     break;
                 case 3:
-                    Console.WriteLine($"Le prix est de {prixCapuccino} €.");
+                    Console.WriteLine($"Le prix est de {prixCapuccino} cents.");
                     break;
                 case 4:
-                    Console.WriteLine($"Le prix est de {prixChocolatChaud} €.");
+                    Console.WriteLine($"Le prix est de {prixChocolatChaud} cents.");
                     break;
                 case 5:
-                    Console.WriteLine($"Le prix est de {prixCafeAuLait} €.");
+                    Console.WriteLine($"Le prix est de {prixCafeAuLait} cents.");
                     break;
                 case 6:
-                    Console.WriteLine($"Le prix est de {prixMokaccino} €.");
+                    Console.WriteLine($"Le prix est de {prixMokaccino} cents.");
                     break;
                 case 7:
-                    Console.WriteLine($"Le prix est de {prixThé} €.");
+                    Console.WriteLine($"Le prix est de {prixThé} cents.");
                     break;
                 default:
                     Console.WriteLine("Choix invalide.");
