@@ -7,11 +7,11 @@ namespace FaroukChtioui
     {
         static void Main()
         {
-            double prixLaitPoudre = 10 * (1-0.3);
-            double prixCafe = 30 * (1 - 0.3);
-            double prixChocolat = 40 * (1 - 0.3);
-            double prixThe = 30 * (1 - 0.3);
-            double prixEau = 5 * (1 - 0.3);
+            double prixLaitPoudre = 10 * (1/(1-0.3));
+            double prixCafe = 30 * (1/(1-0.3));
+            double prixChocolat = 40 * (1/(1-0.3));
+            double prixThe = 30 * (1/(1-0.3));
+            double prixEau = 5 * (1/(1-0.3));
 
             double prixEspresso = 2 * prixEau + prixCafe;
             double prixLait = 2 * prixLaitPoudre + prixEau;
